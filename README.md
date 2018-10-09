@@ -8,3 +8,5 @@
 ```import java.util.Arrays;``` **VS** ```import java.util.ArrayList;```  
 ```int[] a = new int[10];``` **VS** ```ArrayList<Integer> a=new ArrayList<Integer>();```  
 ```System.out.println(Arrays.toString(a));``` **VS** ```System.out.println(a);```  
+4、Java一行声明多个变量 **VS** Python一行声明多个变量  
+```int x = 1,a = 0,b = 1;``` **VS** ```x,a,b = 1,0,1```  
