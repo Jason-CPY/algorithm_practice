@@ -10,3 +10,4 @@
 ```System.out.println(Arrays.toString(a));``` **VS** ```System.out.println(a);```  
 4、Java一行声明多个变量 **VS** Python一行声明多个变量  
 ```int x = 1,a = 0,b = 1;``` **VS** ```x,a,b = 1,0,1```  
+5、Java Integer类型的Arraylist要转int类型的数组只能一个元素一个元素的```Integer.intValue()```,没有找到直接转的函数  
