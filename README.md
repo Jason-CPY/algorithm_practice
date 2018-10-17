@@ -12,3 +12,5 @@
 ```int x = 1,a = 0,b = 1;``` **VS** ```x,a,b = 1,0,1```  
 5、Java Integer类型的Arraylist要转int类型的数组只能一个元素一个元素的```Integer.intValue()```,没有找到直接转的函数  
 6、Java数组切片要使用Arrays.copyofRange()函数  
+7、Java的Map.Entry类可以很方便的操作HashMap  
+8、++i是先加后使用，i++是先使用然后再加  
