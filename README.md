@@ -14,3 +14,4 @@
 6、Java数组切片要使用Arrays.copyofRange()函数  
 7、Java的Map.Entry类可以很方便的操作HashMap  
 8、++i是先加后使用，i++是先使用然后再加  
+9、```Array[n]``` **VS** ```ArrayList.get(n)```  
