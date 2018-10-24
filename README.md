@@ -15,3 +15,4 @@
 7、Java的Map.Entry类可以很方便的操作HashMap  
 8、++i是先加后使用，i++是先使用然后再加  
 9、```Array[n]``` **VS** ```ArrayList.get(n)```  
+10、强制转换是(float)int,不是float(int)  
